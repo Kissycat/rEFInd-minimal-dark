@@ -63,6 +63,6 @@ The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
 
 ### Dark style
 
-Edit by Songine
+Edited by Songine
 
 Just for fun! 
