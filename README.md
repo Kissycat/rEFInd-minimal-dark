@@ -62,7 +62,7 @@ The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
 [wallpaper]: http://leonardoalanb.deviantart.com/art/Minimalist-wallpaper-295519786
 [wallpaper-author]: http://leonardoalanb.deviantart.com/
 
-#Dark style
+### Dark style
 
 Edit by Songine
 
