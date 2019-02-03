@@ -3,7 +3,7 @@
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
 based systems. This is a clean and minimal theme for it.
 
-![login](https://github.com/CDLLY/Madia-Store/raw/master/screenshot_002.bmp)
+![image](https://github.com/CDLLY/Madia-Store/blob/master/rEFInd-dark.png)
 ### Usage
 
  1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind`
